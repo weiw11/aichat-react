@@ -8,7 +8,7 @@ This project was mostly created to learn and test AI and LLM model capabilities 
 
 ## Demo
 
-![ai chat demo](./docs/aichat_demo.gif)
+<img src="./docs/aichat_demo.gif" alt="ai chat demo" height="500">
 
 ## Setup
 
