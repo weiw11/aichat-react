@@ -6,6 +6,10 @@ AI Chat conversation by passing in your OpenAI key.
 
 This project was mostly created to learn and test AI and LLM model capabilities and text output.
 
+## Demo
+
+![ai chat demo](./docs/aichat_demo.gif)
+
 ## Setup
 
 1. Create a `.env` file using `example.env`.
